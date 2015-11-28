@@ -1,7 +1,7 @@
 # Install Package:
 
 ```
-python setup.py. install
+python setup.py install
 ```
 
 
