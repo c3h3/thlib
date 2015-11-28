@@ -1,2 +1,8 @@
 .ipynb_checkpoints/
+.project
+.pydevproject
+TibDict/
+build/
+dist/
+thlib.egg-info/
 
